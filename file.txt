@@ -1,2 +1,8 @@
-version 0.0
-there's no anything special here
+there's no anything special hereversion 0.1
+#include<iostream>
+using mapespace std;
+int main()
+{
+cout << "Hello, World!"; 
+return 0;
+}
